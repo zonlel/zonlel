@@ -6,6 +6,9 @@
 - 🔭 Active Work: GenFruit Network
 - 🌱 Currently Learning: Java♨️
 
+- 💨 I really enjoy Sonic the Hedgehog
+- 🚗 Very fond of Cars and Racing
+
 ## 🛠️ Achievements
 - ⚡ Held 200+ Players online fluidly @ GenFruit Network
 - 👯 Created an enjoyable workspace on the GenFruit Team
