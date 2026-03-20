@@ -4,7 +4,7 @@
 
 ## 🧠 Get to know me!
 - 🔭 Active Work: GenFruit Network
-- 🌱 Currently Learning: Java/Kotlin
+- 🌱 Currently Learning: Java♨️
 
 ## 🛠️ Achievements
 - ⚡ Held 200+ Players online fluidly @ GenFruit Network
