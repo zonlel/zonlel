@@ -1,4 +1,16 @@
-## Hi there 👋
+## 👋Hi, I'm z3onlol (not zonlol)
+🚀 I'm passionate about building High-End Minecraft Networks
+🌍 Based in the United Kindom, you may view my time on the left
+
+## 🧠 Get to know me!
+- 🔭 Active Work: GenFruit Network
+- 🌱 Currently Learning: Java/Kotlin
+
+## 🛠️ Achievements
+- ⚡ Held 200+ Players online fluidly @ GenFruit Network
+- 👯 Created an enjoyable workspace on the GenFruit Team
+
+# 💬 Discord: z3onlol
 
 <!--
 **zonlel/zonlel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
