@@ -1,6 +1,6 @@
 ## 👋Hi, I'm z3onlol (not zonlol)
 - 🚀 I'm passionate about building High-End Minecraft Networks
-- 🌍 Based in the United Kindom, you may view my time on the left
+- 🌍 Based in the United Kingdom, you may view my time on the left
 
 ## 🧠 Get to know me!
 - 🔭 Active Work: GenFruit Network
